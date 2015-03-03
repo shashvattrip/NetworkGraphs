@@ -1,0 +1,24 @@
+{
+  "name": "NetworkGraphs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/shashvattrip/NetworkGraphs",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "authors": [
+    "shashvattrip"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.5"
+  }
+}

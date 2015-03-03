@@ -1,0 +1,2 @@
+#ignoring bower components and node modules
+bower_components/*
