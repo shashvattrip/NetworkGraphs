@@ -1,2 +1,5 @@
 #Adding ignored files
+#ignoring bower components and node modules
 node_modules/*
+bower_components/*
+
